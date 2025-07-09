@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "435838730667",
-    "project_id": "crocha-a1734",
-    "storage_bucket": "crocha-a1734.firebasestorage.app"
+    "project_number": "1060839670499",
+    "project_id": "crocha-a64bc",
+    "storage_bucket": "crocha-a64bc.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:435838730667:android:ceab5a75a281f77b45d2ee",
+        "mobilesdk_app_id": "1:1060839670499:android:b3b9d211bcf7df7415fbd6",
         "android_client_info": {
           "package_name": "com.example.crocha"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyASMB1VWvrDEhRy_U6Xg88wj41a978E2Bs"
+          "current_key": "AIzaSyBDO7_Q0g1GCW6GwEZSxHWwxFjs2K4XgH8"
         }
       ],
       "services": {
